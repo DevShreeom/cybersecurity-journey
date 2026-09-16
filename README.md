@@ -6,6 +6,7 @@ Documentation of my cybersecurity journey
 
 
 # Structure
+,,,
 Cybersecurity-Journey/
 ├── README.md
 ├── writeups/
@@ -13,3 +14,4 @@ Cybersecurity-Journey/
 ├── notes/
 │   └── .....
 └── projects/
+,,,
