@@ -14,9 +14,6 @@ Brute-forces a wordlist against a URL to discover hidden directories/files.
 > dirb http://sitename.domain
 ```
 
-## What I found
-[actual output/result]
-
 ## What I learned
 you can find all the hidden pages of website by broute force and and find 
 vulnerability!
